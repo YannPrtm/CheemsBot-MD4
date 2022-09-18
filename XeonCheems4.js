@@ -8987,7 +8987,7 @@ case 'allmenu':
 	   if (isBan) return reply(mess.ban)
 	if (isBanChat) return reply(mess.banChat)
 var unicorn = await getBuffer(picak+'All Menu')
-await XeonBotInc.send5ButImg(from, ``╔═══════✪「 OWNER 」	
+await XeonBotInc.send5ButImg(from, `╔═══════✪「 OWNER 」	
 ╠➪${prefix}self
 ╠➪${prefix}public
 ╠➪${prefix}antitag
